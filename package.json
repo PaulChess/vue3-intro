@@ -8,7 +8,10 @@
   "dependencies": {
     "@slidev/cli": "^0.29.2",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "@vueuse/core": "^8.2.0",
+    "@vueuse/shared": "^8.2.0",
+    "js-yaml": "^4.1.0"
   },
   "name": "vue3-intro",
   "devDependencies": {

@@ -1,3 +1,7 @@
 html {
   font-family: 'Consolas,"Liberation Mono","Courier New",monospace' !important;
 }
+
+.slidev-toc-item {
+  line-height: 2.2em !important;
+}
