@@ -23,7 +23,7 @@ hideInToc: true
 
 # Vue3 Introduction <logos-vue />
 
-同花顺 T2 职级课 -- Vue3 专题
+[同花顺 T2 职级课 -- Vue3 专题](https://vue3-tech.netlify.app/)
 
 <div class="abs-br mr-16 mb-25 text-left gap-2 text-light-900">
   <p class="leading-10">分享: 沈佳棋</p>

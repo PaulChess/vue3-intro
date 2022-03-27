@@ -15,6 +15,7 @@
   },
   "name": "vue3-intro",
   "devDependencies": {
-    "@iconify/json": "^2.1.20"
+    "@iconify/json": "^2.1.20",
+    "playwright-chromium": "^1.20.1"
   }
 }
